@@ -1,0 +1,9 @@
+set -x PATH $PATH /Users/bogdan/Library/Python/2.7/bin/ /Users/bogdan/.rvm/gems/ruby-2.1.0/bin /Users/bogdan/.rvm/gems/ruby-2.1.0@global/bin /Users/bogdan/.rvm/rubies/ruby-2.1.0/bin /Users/bogdan/.rvm/bin /usr/bin /bin /usr/sbin /sbin /usr/local/bin /Users/bogdan/bin /usr/local/sbin
+set fish_greeting
+set -x POWERLINE_COMMAND /Users/bogdan/Library/Python/2.7/bin/powerline
+source /Users/bogdan/Library/Python/2.7/lib/python/site-packages/powerline/bindings/fish/powerline-setup.fish
+powerline-setup
+set -x  RUBY_GC_HEAP_INIT_SLOTS 600000
+set -x  RUBY_GC_HEAP_FREE_SLOTS 600000
+set -x  RUBY_GC_HEAP_GROWTH_FACTOR 1.25
+set -x  RUBY_GC_HEAP_GROWTH_MAX_SLOTS 300000

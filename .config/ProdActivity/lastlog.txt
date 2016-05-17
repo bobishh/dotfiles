@@ -1,0 +1,245 @@
+[18.01.16 18:09:00] resources: ok
+[18.01.16 18:09:00] interface: ok
+[18.01.16 18:09:00] settings: ok
+[18.01.16 18:10:00] menu: preferences
+[18.01.16 18:10:14] menu: preferences
+[18.01.16 18:17:26] menu: preferences
+[18.01.16 18:17:40] htk: save clipboard
+[18.01.16 18:17:40] run: `/Applications/ProdActivity.app/Contents/MacOS/../Tools/prod -b`
+[18.01.16 18:17:41] run: sh: /Users/bogdan/Activities//2016-01-18-18-17-40.md: No such file or directory
+[18.01.16 18:17:41] htk: save clipboard
+[18.01.16 18:17:41] run: `/Applications/ProdActivity.app/Contents/MacOS/../Tools/prod -b`
+[18.01.16 18:17:41] run: sh: /Users/bogdan/Activities//2016-01-18-18-17-41.md: No such file or directory
+[18.01.16 18:18:23] htk: save clipboard
+[18.01.16 18:18:23] run: `/Applications/ProdActivity.app/Contents/MacOS/../Tools/prod -b`
+[18.01.16 18:18:24] run: sh: /Users/bogdan/Activities//2016-01-18-18-18-23.md: No such file or directory
+[18.01.16 18:18:26] htk: save clipboard
+[18.01.16 18:18:26] run: `/Applications/ProdActivity.app/Contents/MacOS/../Tools/prod -b`
+[18.01.16 18:18:26] run: sh: /Users/bogdan/Activities//2016-01-18-18-18-26.md: No such file or directory
+[18.01.16 18:18:27] htk: save clipboard
+[18.01.16 18:18:27] run: `/Applications/ProdActivity.app/Contents/MacOS/../Tools/prod -b`
+[18.01.16 18:18:27] run: sh: /Users/bogdan/Activities//2016-01-18-18-18-27.md: No such file or directory
+[18.01.16 18:18:27] htk: save clipboard
+[18.01.16 18:18:27] run: `/Applications/ProdActivity.app/Contents/MacOS/../Tools/prod -b`
+[18.01.16 18:18:28] run: sh: /Users/bogdan/Activities//2016-01-18-18-18-27.md: No such file or directory
+[18.01.16 18:18:28] htk: save clipboard
+[18.01.16 18:18:28] run: `/Applications/ProdActivity.app/Contents/MacOS/../Tools/prod -b`
+[18.01.16 18:18:28] run: sh: /Users/bogdan/Activities//2016-01-18-18-18-28.md: No such file or directory
+[18.01.16 18:18:28] htk: save clipboard
+[18.01.16 18:18:28] run: `/Applications/ProdActivity.app/Contents/MacOS/../Tools/prod -b`
+[18.01.16 18:18:28] run: sh: /Users/bogdan/Activities//2016-01-18-18-18-28.md: No such file or directory
+[18.01.16 18:18:28] htk: save clipboard
+[18.01.16 18:18:28] run: `/Applications/ProdActivity.app/Contents/MacOS/../Tools/prod -b`
+[18.01.16 18:18:29] run: sh: /Users/bogdan/Activities//2016-01-18-18-18-28.md: No such file or directory
+[18.01.16 18:19:10] htk: save note
+[18.01.16 18:19:15] run: `/Applications/ProdActivity.app/Contents/MacOS/../Tools/prod -t "prodactivity"`
+[18.01.16 18:19:15] run: sh: /Users/bogdan/Activities//2016-01-18-18-19-15.md: No such file or directory
+[18.01.16 18:20:12] htk: save note
+[18.01.16 18:20:20] run: `/Applications/ProdActivity.app/Contents/MacOS/../Tools/prod -t "fuck that((( where's my folder"`
+[18.01.16 18:20:21] run: sh: -c: line 0: unexpected EOF while looking for matching `''sh: -c: line 1: syntax error: unexpected end of file
+[18.01.16 18:20:59] htk: save note
+[18.01.16 18:21:00] run: `/Applications/ProdActivity.app/Contents/MacOS/../Tools/prod -t "asdasd"`
+[18.01.16 18:21:00] run: sh: /Users/bogdan/Activities//2016-01-18-18-21-00.md: No such file or directory
+[18.01.16 18:21:08] menu: show log
+[18.01.16 18:21:41] htk: save note
+[18.01.16 18:21:42] run: `/Applications/ProdActivity.app/Contents/MacOS/../Tools/prod -t "sdasd"`
+[18.01.16 18:33:36] menu: preferences
+[18.01.16 18:36:32] menu: preferences
+[18.01.16 18:36:48] htk: save note
+[18.01.16 18:36:53] htk: save clipboard
+[18.01.16 18:36:53] run: `/Applications/ProdActivity.app/Contents/MacOS/../Tools/prod -b`
+[18.01.16 18:37:20] htk: select activity
+[18.01.16 18:37:20] run: `/Applications/ProdActivity.app/Contents/MacOS/../Tools/activity -a`
+[18.01.16 18:37:22] run: `/Applications/ProdActivity.app/Contents/MacOS/../Tools/activity -f "t"`
+[18.01.16 18:37:22] run: `/Applications/ProdActivity.app/Contents/MacOS/../Tools/activity -f "te"`
+[18.01.16 18:37:22] run: `/Applications/ProdActivity.app/Contents/MacOS/../Tools/activity -f "t"`
+[18.01.16 18:37:22] run: `/Applications/ProdActivity.app/Contents/MacOS/../Tools/activity -f ""`
+[18.01.16 18:37:59] htk: select activity
+[18.01.16 18:37:59] run: `/Applications/ProdActivity.app/Contents/MacOS/../Tools/activity -a`
+[18.01.16 18:38:01] run: `/Applications/ProdActivity.app/Contents/MacOS/../Tools/activity -f "d"`
+[18.01.16 18:38:01] run: `/Applications/ProdActivity.app/Contents/MacOS/../Tools/activity -f "de"`
+[18.01.16 18:38:02] run: `/Applications/ProdActivity.app/Contents/MacOS/../Tools/activity -f "dev"`
+[18.01.16 18:38:02] run: `/Applications/ProdActivity.app/Contents/MacOS/../Tools/activity -f "deve"`
+[18.01.16 18:38:02] run: `/Applications/ProdActivity.app/Contents/MacOS/../Tools/activity -f "devel"`
+[18.01.16 18:38:02] run: `/Applications/ProdActivity.app/Contents/MacOS/../Tools/activity -f "develo"`
+[18.01.16 18:38:02] run: `/Applications/ProdActivity.app/Contents/MacOS/../Tools/activity -f "develop"`
+[18.01.16 18:38:02] run: `/Applications/ProdActivity.app/Contents/MacOS/../Tools/activity -f "develope"`
+[18.01.16 18:38:02] run: `/Applications/ProdActivity.app/Contents/MacOS/../Tools/activity -f "developem"`
+[18.01.16 18:38:03] run: `/Applications/ProdActivity.app/Contents/MacOS/../Tools/activity -f "developemn"`
+[18.01.16 18:38:03] run: `/Applications/ProdActivity.app/Contents/MacOS/../Tools/activity -f "developem"`
+[18.01.16 18:38:03] run: `/Applications/ProdActivity.app/Contents/MacOS/../Tools/activity -f "develope"`
+[18.01.16 18:38:03] run: `/Applications/ProdActivity.app/Contents/MacOS/../Tools/activity -f "develop"`
+[18.01.16 18:38:03] run: `/Applications/ProdActivity.app/Contents/MacOS/../Tools/activity -f "developm"`
+[18.01.16 18:38:03] run: `/Applications/ProdActivity.app/Contents/MacOS/../Tools/activity -f "developme"`
+[18.01.16 18:38:03] run: `/Applications/ProdActivity.app/Contents/MacOS/../Tools/activity -f "developmen"`
+[18.01.16 18:38:04] run: `/Applications/ProdActivity.app/Contents/MacOS/../Tools/activity -f "development"`
+[18.01.16 18:38:04] run: `/Applications/ProdActivity.app/Contents/MacOS/../Tools/activity -f "development "`
+[18.01.16 18:38:04] run: `/Applications/ProdActivity.app/Contents/MacOS/../Tools/activity -f "development"`
+[18.01.16 18:38:04] run: `/Applications/ProdActivity.app/Contents/MacOS/../Tools/activity -f ""`
+[18.01.16 18:54:55] menu: preferences
+[18.01.16 18:55:13] htk: show in Finder
+[18.01.16 18:55:13] run: `/Applications/ProdActivity.app/Contents/MacOS/../Tools/activity -o`
+[18.01.16 18:55:36] menu: preferences
+[18.01.16 19:05:08] htk: select activity
+[18.01.16 19:05:08] run: `/Applications/ProdActivity.app/Contents/MacOS/../Tools/activity -a`
+[18.01.16 19:05:09] run: `/Applications/ProdActivity.app/Contents/MacOS/../Tools/activity -f "n"`
+[18.01.16 19:05:10] run: `/Applications/ProdActivity.app/Contents/MacOS/../Tools/activity -f "ne"`
+[18.01.16 19:05:10] run: `/Applications/ProdActivity.app/Contents/MacOS/../Tools/activity -f "new"`
+[18.01.16 19:05:10] run: `/Applications/ProdActivity.app/Contents/MacOS/../Tools/activity -f "new "`
+[18.01.16 19:05:10] run: `/Applications/ProdActivity.app/Contents/MacOS/../Tools/activity -f "new a"`
+[18.01.16 19:05:10] run: `/Applications/ProdActivity.app/Contents/MacOS/../Tools/activity -f "new ac"`
+[18.01.16 19:05:10] run: `/Applications/ProdActivity.app/Contents/MacOS/../Tools/activity -f "new act"`
+[18.01.16 19:05:10] run: `/Applications/ProdActivity.app/Contents/MacOS/../Tools/activity -f "new ac"`
+[18.01.16 19:05:11] run: `/Applications/ProdActivity.app/Contents/MacOS/../Tools/activity -f "new a"`
+[18.01.16 19:05:11] run: `/Applications/ProdActivity.app/Contents/MacOS/../Tools/activity -f "new "`
+[18.01.16 19:05:11] run: `/Applications/ProdActivity.app/Contents/MacOS/../Tools/activity -f "new"`
+[18.01.16 19:05:11] run: `/Applications/ProdActivity.app/Contents/MacOS/../Tools/activity -f "ne"`
+[18.01.16 19:05:11] run: `/Applications/ProdActivity.app/Contents/MacOS/../Tools/activity -f "n"`
+[18.01.16 19:05:11] run: `/Applications/ProdActivity.app/Contents/MacOS/../Tools/activity -f ""`
+[18.01.16 19:05:12] run: `/Applications/ProdActivity.app/Contents/MacOS/../Tools/activity -f "f"`
+[18.01.16 19:05:12] run: `/Applications/ProdActivity.app/Contents/MacOS/../Tools/activity -f "fe"`
+[18.01.16 19:05:12] run: `/Applications/ProdActivity.app/Contents/MacOS/../Tools/activity -f "fee"`
+[18.01.16 19:05:12] run: `/Applications/ProdActivity.app/Contents/MacOS/../Tools/activity -f "feed"`
+[18.01.16 19:05:12] run: `/Applications/ProdActivity.app/Contents/MacOS/../Tools/activity -f "feeds"`
+[18.01.16 19:05:13] run: `/Applications/ProdActivity.app/Contents/MacOS/../Tools/activity -f "feedst"`
+[18.01.16 19:05:13] run: `/Applications/ProdActivity.app/Contents/MacOS/../Tools/activity -f "feedsta"`
+[18.01.16 19:05:13] run: `/Applications/ProdActivity.app/Contents/MacOS/../Tools/activity -f "feedstar"`
+[18.01.16 19:05:13] run: `/Applications/ProdActivity.app/Contents/MacOS/../Tools/activity -f "feedstars"`
+[18.01.16 19:05:13] run: `/Applications/ProdActivity.app/Contents/MacOS/../Tools/activity -f "feedstars "`
+[18.01.16 19:05:13] run: `/Applications/ProdActivity.app/Contents/MacOS/../Tools/activity -f "feedstars"`
+[18.01.16 19:05:13] run: `/Applications/ProdActivity.app/Contents/MacOS/../Tools/activity -f "feedstars_"`
+[18.01.16 19:05:14] run: `/Applications/ProdActivity.app/Contents/MacOS/../Tools/activity -f "feedstars_d"`
+[18.01.16 19:05:14] run: `/Applications/ProdActivity.app/Contents/MacOS/../Tools/activity -f "feedstars_de"`
+[18.01.16 19:05:15] run: `/Applications/ProdActivity.app/Contents/MacOS/../Tools/activity -f "feedstars_des"`
+[18.01.16 19:05:15] run: `/Applications/ProdActivity.app/Contents/MacOS/../Tools/activity -f "feedstars_desi"`
+[18.01.16 19:05:15] run: `/Applications/ProdActivity.app/Contents/MacOS/../Tools/activity -f "feedstars_desig"`
+[18.01.16 19:05:15] run: `/Applications/ProdActivity.app/Contents/MacOS/../Tools/activity -f "feedstars_design"`
+[18.01.16 19:05:15] run: `/Applications/ProdActivity.app/Contents/MacOS/../Tools/activity -s "feedstars_design"`
+[18.01.16 19:05:15] run: unlink: /Users/bogdan/Current: is a directory
+[18.01.16 19:05:17] htk: show in Finder
+[18.01.16 19:05:18] run: `/Applications/ProdActivity.app/Contents/MacOS/../Tools/activity -o`
+[18.01.16 19:07:10] menu: preferences
+[18.01.16 19:07:18] htk: make screenshot
+[18.01.16 19:07:18] run: `/Applications/ProdActivity.app/Contents/MacOS/../Tools/prod -s`
+[18.01.16 21:49:45] menu: preferences
+[18.01.16 21:49:56] htk: select activity
+[18.01.16 21:49:56] run: `/Applications/ProdActivity.app/Contents/MacOS/../Tools/activity -a`
+[18.01.16 21:50:01] run: `/Applications/ProdActivity.app/Contents/MacOS/../Tools/activity -s "feedstars_design"`
+[18.01.16 21:50:01] run: unlink: /Users/bogdan/Current: is a directoryln: /Users/bogdan/Current/feedstars_design: File exists
+[18.01.16 21:50:09] htk: save clipboard
+[18.01.16 21:50:09] run: `/Applications/ProdActivity.app/Contents/MacOS/../Tools/prod -b`
+[18.01.16 21:50:21] htk: select activity
+[18.01.16 21:50:21] run: `/Applications/ProdActivity.app/Contents/MacOS/../Tools/activity -a`
+[18.01.16 21:50:23] run: `/Applications/ProdActivity.app/Contents/MacOS/../Tools/activity -f "а"`
+[18.01.16 21:50:23] run: `/Applications/ProdActivity.app/Contents/MacOS/../Tools/activity -f "ау"`
+[18.01.16 21:50:23] run: `/Applications/ProdActivity.app/Contents/MacOS/../Tools/activity -f "ауу"`
+[18.01.16 21:50:24] run: `/Applications/ProdActivity.app/Contents/MacOS/../Tools/activity -f "ау"`
+[18.01.16 21:50:24] run: `/Applications/ProdActivity.app/Contents/MacOS/../Tools/activity -f "а"`
+[18.01.16 21:50:24] run: `/Applications/ProdActivity.app/Contents/MacOS/../Tools/activity -f ""`
+[18.01.16 21:50:24] run: `/Applications/ProdActivity.app/Contents/MacOS/../Tools/activity -f "f"`
+[18.01.16 21:50:24] run: `/Applications/ProdActivity.app/Contents/MacOS/../Tools/activity -f "fe"`
+[18.01.16 21:50:24] run: `/Applications/ProdActivity.app/Contents/MacOS/../Tools/activity -f "fee"`
+[18.01.16 21:50:25] run: `/Applications/ProdActivity.app/Contents/MacOS/../Tools/activity -f "feed"`
+[18.01.16 21:50:26] run: `/Applications/ProdActivity.app/Contents/MacOS/../Tools/activity -s "feedstars_design"`
+[18.01.16 21:50:26] run: unlink: /Users/bogdan/Current: is a directoryln: /Users/bogdan/Current/feedstars_design: File exists
+[18.01.16 21:50:30] htk: select activity
+[18.01.16 21:50:30] run: `/Applications/ProdActivity.app/Contents/MacOS/../Tools/activity -a`
+[18.01.16 21:50:32] run: `/Applications/ProdActivity.app/Contents/MacOS/../Tools/activity -f "o"`
+[18.01.16 21:50:32] run: `/Applications/ProdActivity.app/Contents/MacOS/../Tools/activity -f "ot"`
+[18.01.16 21:50:32] run: `/Applications/ProdActivity.app/Contents/MacOS/../Tools/activity -f "otz"`
+[18.01.16 21:50:33] run: `/Applications/ProdActivity.app/Contents/MacOS/../Tools/activity -f "otzi"`
+[18.01.16 21:50:33] run: `/Applications/ProdActivity.app/Contents/MacOS/../Tools/activity -f "otzi."`
+[18.01.16 21:50:33] run: `/Applications/ProdActivity.app/Contents/MacOS/../Tools/activity -f "otzi.d"`
+[18.01.16 21:50:33] run: `/Applications/ProdActivity.app/Contents/MacOS/../Tools/activity -f "otzi.de"`
+[18.01.16 21:50:33] run: `/Applications/ProdActivity.app/Contents/MacOS/../Tools/activity -f "otzi.dev"`
+[18.01.16 21:50:34] run: `/Applications/ProdActivity.app/Contents/MacOS/../Tools/activity -s "otzi.dev"`
+[18.01.16 21:50:34] run: unlink: /Users/bogdan/Current: is a directory
+[18.01.16 21:50:41] htk: make screenshot
+[18.01.16 21:50:41] run: `/Applications/ProdActivity.app/Contents/MacOS/../Tools/prod -s`
+[18.01.16 21:50:53] menu: preferences
+[18.01.16 21:50:56] menu: show log
+[19.01.16 00:42:10] htk: show in Finder
+[19.01.16 00:42:10] run: `/Applications/ProdActivity.app/Contents/MacOS/../Tools/activity -o`
+[19.01.16 01:08:44] htk: show in Finder
+[19.01.16 01:08:44] run: `/Applications/ProdActivity.app/Contents/MacOS/../Tools/activity -o`
+[19.01.16 12:31:11] htk: show in Finder
+[19.01.16 12:31:11] run: `/Applications/ProdActivity.app/Contents/MacOS/../Tools/activity -o`
+[19.01.16 12:37:23] htk: select activity
+[19.01.16 12:37:23] run: `/Applications/ProdActivity.app/Contents/MacOS/../Tools/activity -a`
+[19.01.16 12:37:27] run: `/Applications/ProdActivity.app/Contents/MacOS/../Tools/activity -s "otzi.dev"`
+[19.01.16 12:37:27] run: unlink: /Users/bogdan/Current: is a directoryln: /Users/bogdan/Current/otzi.dev: File exists
+[19.01.16 12:37:35] htk: make screenshot
+[19.01.16 12:37:35] run: `/Applications/ProdActivity.app/Contents/MacOS/../Tools/prod -s`
+[19.01.16 12:40:47] htk: make screenshot
+[19.01.16 12:40:47] run: `/Applications/ProdActivity.app/Contents/MacOS/../Tools/prod -s`
+[19.01.16 12:41:07] htk: select activity
+[19.01.16 12:41:07] run: `/Applications/ProdActivity.app/Contents/MacOS/../Tools/activity -a`
+[19.01.16 12:41:09] run: `/Applications/ProdActivity.app/Contents/MacOS/../Tools/activity -f "b"`
+[19.01.16 12:41:09] run: `/Applications/ProdActivity.app/Contents/MacOS/../Tools/activity -f "bu"`
+[19.01.16 12:41:09] run: `/Applications/ProdActivity.app/Contents/MacOS/../Tools/activity -f "bui"`
+[19.01.16 12:41:09] run: `/Applications/ProdActivity.app/Contents/MacOS/../Tools/activity -f "bu"`
+[19.01.16 12:41:10] run: `/Applications/ProdActivity.app/Contents/MacOS/../Tools/activity -f "b"`
+[19.01.16 12:41:10] run: `/Applications/ProdActivity.app/Contents/MacOS/../Tools/activity -f ""`
+[19.01.16 12:41:11] run: `/Applications/ProdActivity.app/Contents/MacOS/../Tools/activity -f "f"`
+[19.01.16 12:41:11] run: `/Applications/ProdActivity.app/Contents/MacOS/../Tools/activity -f "fe"`
+[19.01.16 12:41:11] run: `/Applications/ProdActivity.app/Contents/MacOS/../Tools/activity -f "fee"`
+[19.01.16 12:41:11] run: `/Applications/ProdActivity.app/Contents/MacOS/../Tools/activity -f "feed"`
+[19.01.16 12:41:11] run: `/Applications/ProdActivity.app/Contents/MacOS/../Tools/activity -f "feeds"`
+[19.01.16 12:41:12] run: `/Applications/ProdActivity.app/Contents/MacOS/../Tools/activity -f "feedst"`
+[19.01.16 12:41:12] run: `/Applications/ProdActivity.app/Contents/MacOS/../Tools/activity -f "feedsta"`
+[19.01.16 12:41:12] run: `/Applications/ProdActivity.app/Contents/MacOS/../Tools/activity -f "feedstas"`
+[19.01.16 12:41:12] run: `/Applications/ProdActivity.app/Contents/MacOS/../Tools/activity -f "feedstasr"`
+[19.01.16 12:41:12] run: `/Applications/ProdActivity.app/Contents/MacOS/../Tools/activity -f "feedstasr "`
+[19.01.16 12:41:12] run: `/Applications/ProdActivity.app/Contents/MacOS/../Tools/activity -f "feedstasr"`
+[19.01.16 12:41:12] run: `/Applications/ProdActivity.app/Contents/MacOS/../Tools/activity -f "feedstas"`
+[19.01.16 12:41:13] run: `/Applications/ProdActivity.app/Contents/MacOS/../Tools/activity -f "feedsta"`
+[19.01.16 12:41:13] run: `/Applications/ProdActivity.app/Contents/MacOS/../Tools/activity -f "feedstar"`
+[19.01.16 12:41:13] run: `/Applications/ProdActivity.app/Contents/MacOS/../Tools/activity -f "feedstars"`
+[19.01.16 12:41:13] run: `/Applications/ProdActivity.app/Contents/MacOS/../Tools/activity -f "feedstars "`
+[19.01.16 12:41:13] run: `/Applications/ProdActivity.app/Contents/MacOS/../Tools/activity -f "feedstars"`
+[19.01.16 12:41:13] run: `/Applications/ProdActivity.app/Contents/MacOS/../Tools/activity -s "feedstars"`
+[19.01.16 12:41:13] run: unlink: /Users/bogdan/Current: is a directory
+[19.01.16 12:41:22] htk: make screenshot
+[19.01.16 12:41:22] run: `/Applications/ProdActivity.app/Contents/MacOS/../Tools/prod -s`
+[19.01.16 12:41:32] menu: show log
+[19.01.16 12:45:11] htk: select activity
+[19.01.16 12:45:11] run: `/Applications/ProdActivity.app/Contents/MacOS/../Tools/activity -a`
+[19.01.16 12:45:13] run: `/Applications/ProdActivity.app/Contents/MacOS/../Tools/activity -f "f"`
+[19.01.16 12:45:13] run: `/Applications/ProdActivity.app/Contents/MacOS/../Tools/activity -f "fe"`
+[19.01.16 12:45:14] run: `/Applications/ProdActivity.app/Contents/MacOS/../Tools/activity -f "fee"`
+[19.01.16 12:45:14] run: `/Applications/ProdActivity.app/Contents/MacOS/../Tools/activity -f "feed"`
+[19.01.16 12:45:14] run: `/Applications/ProdActivity.app/Contents/MacOS/../Tools/activity -f "feeds"`
+[19.01.16 12:45:14] run: `/Applications/ProdActivity.app/Contents/MacOS/../Tools/activity -f "feedst"`
+[19.01.16 12:45:14] run: `/Applications/ProdActivity.app/Contents/MacOS/../Tools/activity -f "feedsta"`
+[19.01.16 12:45:14] run: `/Applications/ProdActivity.app/Contents/MacOS/../Tools/activity -f "feedstar"`
+[19.01.16 12:45:14] run: `/Applications/ProdActivity.app/Contents/MacOS/../Tools/activity -f "feedstars"`
+[19.01.16 12:45:14] run: `/Applications/ProdActivity.app/Contents/MacOS/../Tools/activity -f "feedstars1"`
+[19.01.16 12:45:15] run: `/Applications/ProdActivity.app/Contents/MacOS/../Tools/activity -s "feedstars1"`
+[19.01.16 12:45:15] run: unlink: /Users/bogdan/Current: No such file or directory
+[19.01.16 12:45:20] menu: preferences
+[19.01.16 12:45:22] menu: show log
+[19.01.16 12:45:31] htk: make screenshot
+[19.01.16 12:45:31] run: `/Applications/ProdActivity.app/Contents/MacOS/../Tools/prod -s`
+[19.01.16 12:45:46] htk: make screenshot
+[19.01.16 12:45:46] run: `/Applications/ProdActivity.app/Contents/MacOS/../Tools/prod -s`
+[19.01.16 12:45:50] htk: select activity
+[19.01.16 12:45:50] run: `/Applications/ProdActivity.app/Contents/MacOS/../Tools/activity -a`
+[19.01.16 12:45:52] run: `/Applications/ProdActivity.app/Contents/MacOS/../Tools/activity -s "feedstars"`
+[19.01.16 12:46:07] htk: make screenshot
+[19.01.16 12:46:07] run: `/Applications/ProdActivity.app/Contents/MacOS/../Tools/prod -s`
+[19.01.16 12:46:09] htk: select activity
+[19.01.16 12:46:09] run: `/Applications/ProdActivity.app/Contents/MacOS/../Tools/activity -a`
+[19.01.16 12:46:11] run: `/Applications/ProdActivity.app/Contents/MacOS/../Tools/activity -s "feedstars"`
+[19.01.16 13:15:00] menu: preferences
+[19.01.16 13:15:10] htk: save current URL
+[19.01.16 13:15:10] run: `/Applications/ProdActivity.app/Contents/MacOS/../Tools/prod -u`
+[19.01.16 17:26:41] htk: show in Finder
+[19.01.16 17:26:41] run: `/Applications/ProdActivity.app/Contents/MacOS/../Tools/activity -o`
+[19.01.16 18:10:29] htk: show in Finder
+[19.01.16 18:10:29] run: `/Applications/ProdActivity.app/Contents/MacOS/../Tools/activity -o`
+[19.01.16 18:24:30] htk: show in Finder
+[19.01.16 18:24:30] run: `/Applications/ProdActivity.app/Contents/MacOS/../Tools/activity -o`
+[20.01.16 11:04:24] htk: show in Finder
+[20.01.16 11:04:24] run: `/Applications/ProdActivity.app/Contents/MacOS/../Tools/activity -o`
+[20.01.16 12:54:45] htk: select activity
+[20.01.16 12:54:45] run: `/Applications/ProdActivity.app/Contents/MacOS/../Tools/activity -a`
